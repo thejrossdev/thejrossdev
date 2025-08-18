@@ -1,13 +1,11 @@
 <div align="center">
 
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jennifer-ross&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jennifer-ross&hide_border=true" />
 
+<div>
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jennifer-ross&hide_border=true" />
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer-ross&hide=css,html,scss&layout=donut&hide_border=true" />
 </div>
-
-<div align="center">
-
-<img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer-ross&hide=css,html,scss&layout=donut&hide_border=true" />
 
 </div>
 
