@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jennifer-ross&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jennifer-ross&hide_border=true" />
+
+</div>
 
 <!--
 **jennifer-ross/jennifer-ross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
