@@ -3,10 +3,12 @@
 </a>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Jennifer Ross</h1>
-<h3 align="center">A Fullstack Web developer</h3>
+<h3 align="center">A Fullstack Web developer, I am passionate about open-source, coding, and web technologies❤️</h3>
 
-<br/>
-
+<br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br />
+ 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br />
@@ -21,4 +23,6 @@
 </td>
 </tr>
 </table>
+
 </br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
