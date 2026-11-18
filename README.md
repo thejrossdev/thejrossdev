@@ -71,6 +71,3 @@
 <p align="center">
   <sub>⭐️ From <a href="https://github.com/thejrossdev">@thejrossdev</a> — thanks for stopping by, and happy coding! 👩‍💻✨</sub>
 </p>
-
-</br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
